@@ -8,7 +8,7 @@ A command-line app that prompts the user to answer questions about a team of eng
 ### Demo
 [Click here to watch demo]()
 
-![ScreenShot](./Assets/Images/team-profile-generator-screenshot.png)
+![ScreenShot](./Assets/Images/team-profile-generator.png)
 
 ## Built With
 
