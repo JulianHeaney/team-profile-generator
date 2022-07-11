@@ -117,4 +117,5 @@ generatePage = teamArray => {
    `
 }
 
+
 module.exports = generatePage;
