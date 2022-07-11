@@ -6,9 +6,9 @@
 A command-line app that prompts the user to answer questions about a team of engineers. The app then generates an HTML webpage with the information.  
 
 ### Demo
-[Click to watch demo]()
+Link to Demo ()
 
-![ScreenShot](./Assets/Images/team-profile-generator.png)
+(./Assets/Images/team-profile-generator.png)
 
 ## Built With
 
